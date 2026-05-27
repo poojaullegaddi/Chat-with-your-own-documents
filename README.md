@@ -39,5 +39,5 @@ PDF Upload
 - PyPDF
 
 ---
-# Live Demo!(image/Screenshot_RAG_chat_with_pdfs.png)
+# ![Live Demo](image/Screenshot_RAG_chat_with_pdfs.png)
 
